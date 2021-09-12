@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikogranda
-- 👀 I’m interested in devolper software
+- 👀 I’m interested in to be developer
 - 🌱 I’m currently learning composer
 - 💞️ I’m looking to collaborate on appi
 - 📫 How to reach me nicgranda@gmail.com
